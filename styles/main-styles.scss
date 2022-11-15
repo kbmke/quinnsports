@@ -2,8 +2,10 @@
     font-size: 58px;
 }
 
-#main-pic-container {
-    img {
+picture {
+    #main-pic-container {
         width: 50px;
+        height: 70px;
+        border: solid 1px black;
     }
 }

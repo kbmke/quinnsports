@@ -1,4 +1,10 @@
 {
     "workbench.preferredDarkColorTheme": "Default High Contrast",
-    "workbench.colorTheme": "Tinacious Design (High Contrast)"
+    "workbench.colorTheme": "Tinacious Design (High Contrast)",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "blink",
+    "editor.renderWhitespace": "trailing",
+    "editor.wordWrap": "on",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorWidth": 0
 }
