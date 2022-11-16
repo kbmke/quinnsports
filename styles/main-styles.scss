@@ -1,3 +1,18 @@
 .title {
     font-size: 58px;
 }
+.grid-container {
+    display: grid;
+    grid-area: grid1 grid2 grid3 grid4 grid5;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+      gap: 20px 20px;
+    border: 2px solid black;
+    padding: 50px;
+}
+.picture {
+    border: 2px solid black;
+}
+.grid1 {
+    border: 1px solid black;
+}
