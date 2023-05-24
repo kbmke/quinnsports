@@ -1,5 +1,6 @@
 {
-    "workbench.preferredDarkColorTheme": "Default High Contrast",
-    "workbench.colorTheme": "Tinacious Design (High Contrast)",
-    "editor.formatOnSaveMode": "modifications"
+  "workbench.preferredDarkColorTheme": "Default High Contrast",
+  "workbench.colorTheme": "Tinacious Design (High Contrast)",
+  "editor.formatOnSaveMode": "modifications",
+  "css.format.enable": true
 }
