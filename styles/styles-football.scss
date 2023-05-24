@@ -6,7 +6,7 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 /*
@@ -14,7 +14,7 @@
 */
 
 * {
-  margin: 0;
+    margin: 0;
 }
 
 /*
@@ -22,7 +22,7 @@
 */
 html,
 body {
-  height: 100%;
+    height: 100%;
 }
 
 /*
@@ -31,8 +31,8 @@ body {
   5. Improve text rendering
 */
 body {
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
 }
 
 /*
@@ -43,8 +43,8 @@ picture,
 video,
 canvas,
 svg {
-  display: block;
-  max-width: 100%;
+    display: block;
+    max-width: 100%;
 }
 
 /*
@@ -54,7 +54,7 @@ input,
 button,
 textarea,
 select {
-  font: inherit;
+    font: inherit;
 }
 
 /*
@@ -67,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-  overflow-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 /*
@@ -76,17 +76,5 @@ h6 {
 
 # root # __next {
 
-  isolation: isolate;
-}
-.title {
-  font-size: 58px;
-}
-
-.grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  gap: 20px 20px;
-//   border: 2px solid black;
-  padding: 50px;
+    isolation: isolate;
 }
