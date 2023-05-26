@@ -58,7 +58,6 @@
   text-align: center;
   text-decoration: none;
   margin: 0 auto;
-  border: 1px solid green;
 }
 
 .nav-link {
@@ -69,5 +68,4 @@
   margin: 1rem;
   padding: 2.5rem;
   border-radius: 50%;
-  border: 1px solid black;
 }/*# sourceMappingURL=utility.css.map */
