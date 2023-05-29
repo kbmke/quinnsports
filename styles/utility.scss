@@ -18,7 +18,7 @@
 .grid-container{
   // border: 3px solid black;
   display: grid;
-  grid: 28rem / 30rem 30rem;
+  grid: 28rem 28rem / 30rem 30rem;
   grid-gap: 2rem;
   grid-template-areas: grid1 grid2 grid3 grid4;
   grid-template-rows: 28rem 28rem;
